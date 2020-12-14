@@ -27,13 +27,13 @@
  
  ちょっと簡単な説明で申し訳ないのですが、遊びに来てみませんか？
  
- [cluster] https://cluster.mu/
+ [cluster] (https://cluster.mu/)
  
    
  ## 連絡先
  
-  - [Twitter] https://twitter.com/none82973657
-  - [Cluster] https://cluster.mu/u/none_03062020
+  - [Twitter] (https://twitter.com/none82973657)
+  - [Cluster] (https://cluster.mu/u/none_03062020)
  
  
  
