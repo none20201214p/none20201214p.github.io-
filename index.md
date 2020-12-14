@@ -13,7 +13,7 @@
  - 特技 インした瞬間あるいは、重いワールドに行くと溶けること  
  - 最近よく使ってるアバター 鳥or焼き鳥
  
-# What's this page?
+## What's this page?
  
  GitHub Pagesで書くこと自体が目的だったので、この先、何を書けばいいのか困ってしまったのですが、  
  clusterで検索して、このページを見た方にclusterって何？って聞かれてしまいそうなので、説明書きを入れておこうと思います。
@@ -30,7 +30,7 @@
  [cluster] (https://cluster.mu/)
  
    
- # Contact
+# Contact
  
   - [Twitter] (https://twitter.com/none82973657)
   - [Cluster] (https://cluster.mu/u/none_03062020)
