@@ -1,3 +1,4 @@
+![焼き鳥](yakitori.png)
 # About
  
  clusterで鳥アバターでよくお散歩しているNoneといいます。 
